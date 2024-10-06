@@ -1,0 +1,4 @@
+esg-env/
+.venv/
+node_modules/
+*.csv

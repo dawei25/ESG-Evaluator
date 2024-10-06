@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+selenium
+pandas
+numpy
+scikit-learn
+spacy
+plotly
+dash
+transformers
+postgresql
+elasticsearch
